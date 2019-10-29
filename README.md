@@ -1,11 +1,11 @@
 # vfor1Verk02
 
 1.  Búið til HTML skjal sem heitir index.html
-2.  Setjið titilinn "Lists" í skjalið
-3.  Setjið heading 1 tagg utan um strenginn "Scrambled Eggs"
-4.  Setjið p tagg utan um strenginn "Eggs are one of my favourite foods. Here is a recipe for deliciously rich scrambled eggs."
-5.  Setjið heading 2 tagg utan um strenginn "Ingredients"
-6.  Búið til óraðan lista 
+b2.  Setjið titilinn "Lists" í skjalið
+b3.  Setjið heading 1 tagg utan um strenginn "Scrambled Eggs"
+b4.  Setjið p tagg utan um strenginn "Eggs are one of my favourite foods. Here is a recipe for deliciously rich scrambled eggs."
+b5.  Setjið heading 2 tagg utan um strenginn "Ingredients"
+b6.  Búið til óraðan lista 
 6.1 Setjið upp li tagg og setjið inn strenginn "2 eggs"
 6.2 Setjið upp li tagg og setjið inn strenginn "1tbs butter"
 6.3 Setjið upp li tagg og setjið inn strenginn "2tbs cream"
